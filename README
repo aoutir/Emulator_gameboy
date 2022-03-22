@@ -1,0 +1,15 @@
+
+
+-------------------------------------------------------------------------------------//READ_ME//-------------------------------------------------------------------------
+
+* La commande make produit les éxecutables demandés , avant de les lancer , veuillez ajouter "export LD_LIBRARY_PATH=." dans le terminal.
+
+* Suivre les instructions données dans l'énoncé concernant les arguments de chaque exécutable s'il en a.
+
+* Nous avons tâché à tout faire correctement. Nous n'avons pas pu tester tous les jeux , vu que les ROMS sur le net ne sont pas forcément compatible à notre implémentation.
+
+* Nous estimons que le projet en moyenne nécessite 8h/semaine par personne pour assimiler correctement l'énoncé , implémenter les fonctions et débuguer.
+  La difficulté varie selon les étapes du projet , pendant le premier et deuxième rendu ,implémenter les fonctions correctement prenait beaucoup de temps , puisqu'il y'a souvent
+  des cas particuliers qu'on oublie etc...Vers la fin du projet , la mise en relation de tous les composants produit souvent des bugs pas simple à retrouver.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
