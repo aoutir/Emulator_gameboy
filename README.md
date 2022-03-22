@@ -1,7 +1,8 @@
 # A gameboy emulator in C 
 
 A GameBoy emulator made from scratch, based on the CS212 EPFL course. 
-The components implemented are: 
+
+The components implemented in this project are: 
 * CPU
 * Bus controller
 * ROM
